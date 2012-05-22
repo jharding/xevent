@@ -1,6 +1,6 @@
 # Xevent
 
-Xevent is a micro library (~1KB uncompressed) for working with events across all browsers. Xevent is compatiable with IE 7+, FF 1+, Chrome 1+, Opera 7+, and Safari 1+.
+Xevent is a micro library (~1KB uncompressed) for working with events across all browsers. Xevent is compatible with IE 7+, FF 1+, Chrome 1+, Opera 7+, and Safari 1+.
 
 ## API
 
