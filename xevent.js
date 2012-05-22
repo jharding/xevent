@@ -1,4 +1,6 @@
-/*globals */
+//  Xevent 0.0.1
+//  (c) 2012 Jake Harding
+//  Xevent is freely distributable under the MIT license.
 
 (function() {
     var xevent = {
